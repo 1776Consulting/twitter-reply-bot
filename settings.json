@@ -1,9 +1,9 @@
 {
   "twitter_api": {
-    "consumer_key":        "1G9PrirxZCUFUAAvMD3tUoHYH",
-    "consumer_secret":     "Fh7FtqQBQT1DLoNpppqDjemk6mEqhkZgLCm7dVf9aBgS5K1b8F",
-    "access_token_key":    "921444215640481792-3I39rl5Uflz0t77BWqRTRzhOg1ZzrQH",
-    "access_token_secret": "2gcF4eSvfOh3pJdpi0wzWKd0quIjYa4D0uWRcdDzGxxG2"
+    "consumer_key":        "---",
+    "consumer_secret":     "---",
+    "access_token_key":    "---",
+    "access_token_secret": "---"
   },
   "database": {
     "url": "mongodb://... TODO: See http://mongodb.github.io/node-mongodb-native/driver-articles/mongoclient.html#the-url-connection-format",
